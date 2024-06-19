@@ -1,5 +1,14 @@
-## Hi there 👋
+## Welcome to the source of all my suffering, I hope it helps💜
 
+
+- 🤓 I'm currently at the fifth semester of Computer Engineering at CIn-UFPE
+- 🤕 I'm currently learning Java
+- 😄 Pronouns: He/Him
+- 😍 Big fan of C++
+
+### Stats 📊
+| </a> | <a href="https://github.com/anapsa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapsa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!--
 **LucasAbsalao/LucasAbsalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
