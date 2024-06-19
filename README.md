@@ -7,7 +7,7 @@
 - 😍 Big fan of C++
 
 ### Stats 📊
-| </a> | <a href="https://github.com/anapsa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapsa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| </a> | <a href="https://github.com/LucasAbsalao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbsalao&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **LucasAbsalao/LucasAbsalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
