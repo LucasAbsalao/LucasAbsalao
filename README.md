@@ -1,11 +1,8 @@
 ## Welcome to the source of all my suffering, I hope it helps💜
 
 
-- 🤓 I'm currently at the fifth semester of Computer Engineering at CIn-UFPE
-- 🤕 I'm currently learning Java
+- 🤓 I'm currently at the sixth semester of Computer Engineering at CIn-UFPE
 - 😄 Pronouns: He/Him
-- 😍 Big fan of C++
-
 ### Programming Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
