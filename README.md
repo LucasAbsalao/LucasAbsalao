@@ -1,8 +1,5 @@
 ## Welcome to the source of all my suffering, I hope it helps💜
 
-
-- 🤓 I'm currently at the sixth semester of Computer Engineering at CIn-UFPE
-- 😄 Pronouns: He/Him
 ### Programming Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
