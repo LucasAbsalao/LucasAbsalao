@@ -1,16 +1,43 @@
-## Welcome to the source of all my suffering, I hope it helps💜
+# Hi there, I'm Lucas Absalão 👋
 
-### Programming Languages
+I am a **Computer Science & Engineering student** at **ENSTA Paris** (M1/Level Bac+4), with a strong foundation in software development and mathematical modeling from the **Federal University of Pernambuco (UFPE)**.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+I am passionate about **Artificial Intelligence**, specifically focusing on **Computer Vision** and **Deep Learning**. My work ranges from developing real-time object detection for autonomous systems to optimizing image quality assessment using multi-scale neural networks.
 
-### Stats 📊
-| </a> | <a href="https://github.com/LucasAbsalao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbsalao&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🚀 Technical Expertise
+
+* **Deep Learning & CV:** PyTorch, OpenCV, CNN architectures, Object Detection (YOLO), Image Processing.
+* **Systems & Software:** C++ (Advanced), Python, Java, SQL.
+* **Networking & Concurrency:** Multi-threaded applications, ENet library, TCP/IP.
+* **Mathematics:** Statistics, Linear Algebra, Optimization, Signal Processing.
+
+---
+
+## 🛠️ Current & Recent Projects
+
+### [TAMEO Project - Autonomous Boat](https://github.com/LucasAbsalao)
+Developing the **Computer Vision system** for an autonomous vessel at ENSTA. Implementing real-time object detection algorithms.
+
+### [Image Quality Assessment (IQA)](https://github.com/LucasAbsalao)
+Research in partnership with **Softex-UFPE**. Utilizing multi-scale neural networks and frequency analysis to evaluate and enhance image quality metrics.
+
+### [Multiplayer Tetris Engine](https://github.com/LucasAbsalao)
+A high-performance C++ implementation featuring low-latency networking via the **ENet** library and robust memory management.
+
+---
+
+## 📊 GitHub Stats
+
+| Top Languages | Contribution Activity |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbsalao&layout=compact&theme=buefy&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api?username=LucasAbsalao&show_icons=true&theme=buefy&hide_border=true" /> |
+
+---
+
+## 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/lucasabsalao]([https://www.linkedin.com/in/lucasabsalao](https://www.linkedin.com/in/lucas-absal%C3%A3o-66144522a/))
+* **Location:** Palaiseau / Paris, France 🇫🇷
 <!--
 **LucasAbsalao/LucasAbsalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
