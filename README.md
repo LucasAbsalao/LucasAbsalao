@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas Absalão 👋
+# I'm Lucas Absalão 👋
 
 I am a **Computer Science & Engineering student** at **ENSTA Paris** (M1/Level Bac+4), with a strong foundation in software development and mathematical modeling from the **Federal University of Pernambuco (UFPE)**.
 
